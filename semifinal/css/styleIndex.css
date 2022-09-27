@@ -1,0 +1,19 @@
+body {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.logoInfest{
+  width: 5%;
+  height: 5%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.form-group.error small {
+  visibility: visible;
+}
+
+.title {
+  color: #F7AE13
+}
